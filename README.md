@@ -11,4 +11,4 @@
 - 📫 How to reach me: https://www.linkedin.com/in/rolando-huahuala-596388248/
 - 😄 Pronouns: he
 
-  Technology: Python | SQL | Power Bi 
+  technologies: Python | SQL | Power Bi 
